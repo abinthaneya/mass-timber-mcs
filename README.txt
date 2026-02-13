@@ -1,14 +1,14 @@
-README — Code Folder (MCS + D‑CUBE/TAWP + Post Processing)
-=========================================================
+README — Code  (MCS + D‑CUBE/TAWP + Post Processing)
+====================================================
 Code in support of: Missed opportunities forgo one-third of mass timber’s carbon storage potential
-By: Ahmad Bin Thaneya1, Aysegul Petek Gursel, Seth Kane, Elisabeth Van Roijen, Baishakhi Bose, Thomas P. Hendrickson,
+By: Ahmad Bin Thaneya, Aysegul Petek Gursel, Seth Kane, Elisabeth Van Roijen, Baishakhi Bose, Thomas P. Hendrickson,
 Corinne D. Scown, Sabbie A. Miller, and Arpad Horvath
 Code Prepared By: Ahmad Bin Thaneya  
 
 MCS_Data_Input
 --------------
 Contains the scenario-aware Monte Carlo simulation (SA‑MCS) parameter 
-inputs used by the SA-MCSinventory model (distributions, bounds, and sampled parameter sets). 
+inputs used by the SA-MCS inventory model (distributions, bounds, and sampled parameter sets). 
 Theparameterization and sampling approach follows Bin Thaneya et al. (see link
 below). Full distribution definitions and parameter values are documented in
 the Supplementary Data (distributions/parameters) and Supplementary Information
