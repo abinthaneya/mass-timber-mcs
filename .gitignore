@@ -14,17 +14,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# ---- Large generated outputs you do NOT want in GitHub ----
+# ---- Large Files Not Uploaded ----
 # MCS results (very large)
 **/MCS_Results/
 
-# Post-processing caches / outputs (optional)
-# If you want to keep PlotBundles in GitHub, comment these out.
-#**/MCS_Model/Post/Results/PlotBundles/
-#**/MCS_Model/Post/Results/TAWP_results/
-#**/MCS_Model/Post/Results/*.png
-#**/MCS_Model/Post/Results/*.pdf
 
-# If your projections are inputs you want versioned, do NOT ignore them.
-# If projections are regenerated and large, you can ignore them:
-# **/MCS_Model/Post/Results/Projections/
