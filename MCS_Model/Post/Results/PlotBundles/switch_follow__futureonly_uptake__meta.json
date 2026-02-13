@@ -1,0 +1,1 @@
+{"switch_years": [2025, 2050, 2075, 2100], "cut_year": 2120, "eol_policy": "as_produced", "hep_bau_weights": {"high__2": 0.0, "high__1": 1.0}, "lep_weights": {"low__2": 1.0, "low__1": 0.0}, "gwp100_ch4": 28.0, "note": "cum_arrays store cumulative NET (t CO2e). Storage = -NET. | uptake patched with cohorts 2121\u20132150"}

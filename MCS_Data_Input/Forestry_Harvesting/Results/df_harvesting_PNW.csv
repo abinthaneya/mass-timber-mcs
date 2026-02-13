@@ -1,0 +1,17 @@
+,nitrogen_kg_per_ha_PNW,phosphate_kg_per_ha_PNW,potassium_kg_per_ha_PNW,herbicide_kg_per_ha_PNW,diesel_planting_L_per_ha_PNW,lubricants_planting_L_per_ha_PNW,electric_planting_MJ_per_ha_PNW,diesel_harvesting_L_per_ha_ME_PNW,lubricants_harvesting_L_per_ha_ME_PNW,gasoline_harvesting_L_per_ha_ME_SE,harvesting_equipment_harvesting_kg_per_ha_ME_SE,diesel_harvesting_L_per_ha_MA_PNW,lubricants_harvesting_L_per_ha_MA_PNW,gasoline_harvesting_L_per_ha_MA_SE,harvesting_equipment_harvesting_kg_per_ha_MA_SE,diesel_hauling_L_per_ha_PNW,hauling_km_PNW,lubricants_hauling_L_per_ha_PNW,yield_m3_dry_log_per_ha_PNW,yield_residue_percent_of_drylog
+0,47.7,8.16,0.223,2.93,44.3,0.798,193.0,1430.0,25.7,355.2,182.04,1690.0,30.3,756.6,139.68,2770.0,121.0,49.8,501.0,0.14979477303988997
+1,143.0,24.3,0.239,,46.5,0.838,206.0,1823.9,32.775,310.8,182.04,1608.399,30.267,698.4,139.68,3210.0,,57.8,575.0,0.25177304964539005
+2,448.0,,,,23.88,,,1188.1454999999994,21.408027027027025,266.4,182.04,1915.5530270270267,32.57743243243243,582.0,139.68,2743.0198108108107,,49.33154054054054,581.0,0.197
+3,,,,,70.791,,,,,147.2175,237.18375,2499.0625,40.0,636.125,,,,,531.0,0.154
+4,,,,,87.974,,,,,,,3353.2875,,,,,,,217.0,0.139
+5,,,,,93.988,,,,,,,,,,,,,,261.0,0.136
+6,,,,,134.678,,,,,,,,,,,,,,450.0,0.132
+7,,,,,,,,,,,,,,,,,,,519.0,0.137
+8,,,,,,,,,,,,,,,,,,,,0.132
+9,,,,,,,,,,,,,,,,,,,,0.128
+10,,,,,,,,,,,,,,,,,,,,0.124
+11,,,,,,,,,,,,,,,,,,,,0.118
+12,,,,,,,,,,,,,,,,,,,,0.154
+13,,,,,,,,,,,,,,,,,,,,0.14
+14,,,,,,,,,,,,,,,,,,,,0.103
+15,,,,,,,,,,,,,,,,,,,,0.134

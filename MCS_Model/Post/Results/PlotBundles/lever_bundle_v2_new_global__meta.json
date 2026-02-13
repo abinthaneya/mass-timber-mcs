@@ -1,0 +1,1 @@
+{"prod_scenarios": ["S1", "S2", "S3"], "include_regions": ["PNW", "SE"], "include_scenarios": ["low", "high"], "cohort_end": 2120, "gwp100_ch4": 28.0, "note": "Slash explicit; MR from TS; process fossil only; units = tonnes (t) in arrays."}
