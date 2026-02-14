@@ -4,9 +4,9 @@
 
 Code in support of: \*\*“Missed opportunities forgo one-third of mass timber’s carbon storage potential.”\*\*  
 
-Authors: Ahmad Bin Thaneya, Aysegul Petek Gursel, Seth Kane, Elisabeth Van Roijen, Baishakhi Bose, Thomas P. Hendrickson, Corinne D. Scown, Sabbie A. Miller, and Arpad Horvath  
+\*\*Authors:\*\* Ahmad Bin Thaneya, Aysegul Petek Gursel, Seth Kane, Elisabeth Van Roijen, Baishakhi Bose, Thomas P. Hendrickson, Corinne D. Scown, Sabbie A. Miller, and Arpad Horvath  
 
-Code prepared by: Ahmad Bin Thaneya
+\*\*Code prepared by:\*\* Ahmad Bin Thaneya
 
 
 
@@ -134,11 +134,11 @@ Shared backend:
 
 
 
-Outputs and caching:
+Outputs and saved runs:
 
 \- `Post/Results/Projections/` — mass timber adoption/production projection inputs used for scaling.
 
-\- `Post/Results/PlotBundles/` — cached “bundle” outputs to avoid recomputing long runs.
+\- `Post/Results/PlotBundles/` — saved “bundle” outputs to avoid recomputing long runs.
 
 \- Figures are written to `Post/Results/` (and/or paths specified within scripts).
 
@@ -198,13 +198,13 @@ Outputs and caching:
 
 \## Notes on runtime + caching
 
-Several Post analyses can be slow. Cached outputs are stored in:
+Several Post analyses can be slow. Saved outputs are stored in:
 
 \- `MCS\_Model/Post/Results/PlotBundles/`
 
 
 
-If PlotBundles are present, scripts typically load cached arrays instead of recomputing them. To trigger a new run, change the output/bundle name used in the script (or delete the cached bundle directory and rerun).
+If PlotBundles are present, scripts typically load saved runs instead of recomputing them. To trigger a new run, change the output/bundle name used in the script (or delete the saved bundle directory and rerun).
 
 
 
@@ -212,13 +212,13 @@ If PlotBundles are present, scripts typically load cached arrays instead of reco
 
 
 
-\## Definitions (quick)
+\## Definitions 
 
 \- \*\*PNW / NW:\*\* Northwest region (PNW terminology appears in some code paths)
 
 \- \*\*SE:\*\* Southeast region
 
-\- \*\*CLT / GLT:\*\* cross-laminated timber / glued-laminated timber
+\- \*\*CLT / GLT:\*\* cross-laminated timber / glue-laminated timber
 
 \- \*\*low / high:\*\* emissions scenario variants used in the MCS inventory
 
@@ -234,11 +234,9 @@ If PlotBundles are present, scripts typically load cached arrays instead of reco
 
 \## References
 
-\- Bin Thaneya et al. (2024) — SA-MCS methods: https://iopscience.iop.org/article/10.1088/2634-4505/ad40ce
+\- Bin Thaneya et al. (2024) — SA-MCS methods: https://iopscience.iop.org/article/10.1088/2634-4505/ad40ce  
 
-\- Kane et al. (2024) — biochar model source paper: https://iopscience.iop.org/article/10.1088/1748-9326/ad99e9
-
-
+\- Kane et al. (2025) — biochar model source paper: https://iopscience.iop.org/article/10.1088/1748-9326/ad99e9  
 
 
 
